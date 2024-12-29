@@ -1,0 +1,7 @@
+flask  
+gradio  
+pillow  
+matplotlib  
+ultralytics  
+numpy  
+pandas  
